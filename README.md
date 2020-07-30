@@ -2,7 +2,6 @@
 
 I'm a Technology Leader, with an exceptional breadth and depth of up-to-date technical knowledge and experience across multiple industries, including Automotive, Retail, Professional Services, and Technology sectors. 
 
-- 🔭 I'm currently working on 
 - 🤓 I'm currently learning TypeScript.
 - 📫 How to reach me: rsneh@hey.com or Twitter [@ronsneh](twitter.com/ronsneh)
 - 🏗️ Fun fact: I love drones, and I've built a couple of my own.
@@ -12,7 +11,7 @@ I'm a Technology Leader, with an exceptional breadth and depth of up-to-date tec
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I'm currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
