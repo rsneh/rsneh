@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/rsneh/rsneh/blob/master/undraw_developer_activity.svg" alt="unDraw Illustration of Developer activity" width=350px />
+
 ## Hi, I'm Ron 👋
 
 I'm a Technology Leader, with an exceptional breadth and depth of up-to-date technical knowledge and experience across multiple industries, including Automotive, Retail, Professional Services, and Technology sectors. 
