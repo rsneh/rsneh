@@ -4,9 +4,10 @@
 
 I'm a Technology Leader, with an exceptional breadth and depth of up-to-date technical knowledge and experience across multiple industries, including Automotive, Retail, Professional Services, and Technology sectors. 
 
-
+<!--
 - 🔭 I'm currently working on RoXcel, a React Time Management for Freelancers
 - 🤓 I'm currently learning TypeScript.
+-->
 - 📫 How to reach me: hi@ronsneh.com or Twitter [@ronsneh](twitter.com/ronsneh)
 - 👨🏻‍💻 Pronouns: he/him 
 - ⚡. Fun fact: I love drones, and I've built a couple of my own.
