@@ -2,7 +2,7 @@
 
 ## Hi, I'm Ron 👋
 
-I'm a Technology Leader, with an exceptional breadth and depth of up-to-date technical knowledge and experience across multiple industries, including Automotive, Retail, Professional Services, and Technology sectors. 
+I'm an experienced, hands-on software architect involved in the architecture design and implementation of micro-services architecture and distributed systems. Over 15 years of experience in software development and extensive technological background mixed with business development roles and excellent people skills
 
 <!--
 - 🔭 I'm currently working on RoXcel, a React Time Management for Freelancers
